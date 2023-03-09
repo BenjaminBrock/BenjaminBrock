@@ -4,6 +4,13 @@
 
 I graduated from **`Loughborough University`** with a bachelours degree in **`Robotics, Mechatronics and Control Engineering`** and I am currently seeking my next role as a **`Software Developer`** , **`Data Scientist`** or **`Machine Learning Engineer`** . Having a background in both hardware and software, I feel that I am great all rounder, capable of bringing the best of both worlds, as well as bringing potentially new and outside the box approaches to different problems.
 
+## Previous Roles:
+
+🐆 Mechatronics Engineer @ Jaguar Land Rover (Placement year 2020-2021)
+
+🛰️ Software Developer @ Cambridge Space Technologies (Internship 2019)
+
+🔬 Software Developer @ Open IO Labs (Internship 2018)
 
 ## 💻 My Stack:
 <br />
