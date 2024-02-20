@@ -2,9 +2,12 @@
 
 ## 🤖 ABOUT ME:
 
-I graduated from **`Loughborough University`** with a bachelours degree in **`Robotics, Mechatronics and Control Engineering`** and I am currently seeking my next role as a **`Software Developer`** , **`Data Scientist`** or **`Machine Learning Engineer`** . Having a background in both hardware and software, I feel that I am great all rounder, capable of bringing the best of both worlds, as well as bringing potentially new and outside the box approaches to different problems.
+Having graduated from **`Loughborough University`** with a bachelours degree in **`Robotics, Mechatronics and Control Engineering`** , I have returned to study an MSc in ##**`Artificial Intelligence and Data Analytics`**. 
+
+Now - I am looking for my next challenge within AI and Deep Learning! Feel free to get in contact to discuss anything ML/DL/QML or projects you want to collaborate on!
 
 ## Previous Roles:
+⚽ Data Lab Technician / Data Scientist @ Loughborough University London Data Lab 
 
 🐆 Mechatronics Engineer @ Jaguar Land Rover (Placement year 2020-2021)
 
