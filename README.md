@@ -2,7 +2,7 @@
 
 ## 🤖 ABOUT ME:
 
-Having graduated from **`Loughborough University`** with a bachelours degree in **`Robotics, Mechatronics and Control Engineering`** , I have returned to study an MSc in ##**`Artificial Intelligence and Data Analytics`**. 
+Having graduated from **`Loughborough University`** with a bachelours degree in **`Robotics, Mechatronics and Control Engineering`** , I have returned to study an MSc in ## **`Artificial Intelligence and Data Analytics`**. 
 
 Now - I am looking for my next challenge within AI and Deep Learning! Feel free to get in contact to discuss anything ML/DL/QML or projects you want to collaborate on!
 
