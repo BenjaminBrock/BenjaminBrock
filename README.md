@@ -7,7 +7,10 @@ Having graduated from **`Loughborough University`** with a bachelours degree in 
 Now - I am looking for my next challenge within AI and Deep Learning! Feel free to get in contact to discuss anything ML/DL/QML or projects you want to collaborate on!
 
 ## Previous Roles:
-⚽ Data Lab Technician / Data Scientist @ Loughborough University London Data Lab 
+
+💵 Lead AI Engineer @ Ledgercomm
+
+⚽ Data Scientist @ Loughborough University London Data Lab 
 
 🐆 Mechatronics Engineer @ Jaguar Land Rover (Placement year 2020-2021)
 
