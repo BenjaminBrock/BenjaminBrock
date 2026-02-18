@@ -1,40 +1,136 @@
-# 💾 **`Welcome!`**
+# Benjamin Brock  
+**AI Systems Architect | Technical Founder | LLM Infrastructure & Retrieval Systems**
 
-## 🤖 ABOUT ME:
+---
 
-Having graduated from **`Loughborough University`** with a bachelours degree in **`Robotics, Mechatronics and Control Engineering`** , I have returned to study an MSc in **`Artificial Intelligence and Data Analytics`**. 
+## About Me
 
-Now - I am looking for my next challenge within AI and Deep Learning! Feel free to get in contact to discuss anything ML/DL/QML or projects you want to collaborate on!
+I am a Technical Founder and AI Systems Architect focused on the design and deployment of production-grade AI systems in highly regulated, ultra-low tolerance environments.
 
-## Previous Roles:
+My work centres on building robust LLM systems capable of operating over complex, domain-specific lexicons — particularly within financial regulation and legal documentation.
 
-💵 Lead AI Engineer @ Ledgercomm
+I specialise in:
 
-⚽ Data Scientist @ Loughborough University London Data Lab 
+- Production LLM system design & MLOps  
+- Agentic and hybrid retrieval architectures  
+- Custom RAG systems for complex documentation  
+- Model fine-tuning and post-training optimisation  
+- Guardrail design for high-risk environments  
+- AI adoption strategy for regulated institutions  
 
-🐆 Mechatronics Engineer @ Jaguar Land Rover (Placement year 2020-2021)
+Most production work is maintained in private repositories under company organisations. This profile serves as a technical overview of my experience and architectural focus.
 
-🛰️ Software Developer @ Cambridge Space Technologies (Internship 2019)
+---
 
-🔬 Software Developer @ Open IO Labs (Internship 2018)
+## Current Focus
 
-## 💻 My Stack:
-<br />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align = "left" alt="TF" width = "100px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/>
-<img align = "left" alt="Pandas" width = "100px" style="padding-right:10px;" src="https://pandas.pydata.org/static/img/pandas.svg"/>
-<img align = "left" alt="SciKit" width = "100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052"/>
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
+### Bastion AI — Technical Founder
 
-      
+Designing custom agentic retrieval architectures for financial and regulatory systems with full data and model isolation.
 
+Key work includes:
 
+- Hybrid retrieval architectures for legal & regulatory corpora  
+- Secure end-to-end AI workflows for financial services  
+- Guardrail engineering for ultra-low tolerance deployments  
+- Technical architecture design supporting pre-seed fundraising  
 
-  
+---
 
+## Previous Roles
+
+### Head of Artificial Intelligence & Data Science — Edmund Group
+
+- Established and scaled AI consulting capability  
+- Designed and managed an MSc internship programme  
+- Worked with international financial regulators, including the FCA, on AI adoption strategy and policy implementation  
+
+### Lead AI Engineer — LedgerComm
+
+- Designed production RAG workflows for financial documentation  
+- Built guardrail mechanisms for complex legal language processing  
+
+### Data Scientist — Loughborough University London Data Lab
+
+- Developed novel machine learning models for sports performance analytics  
+- Consulted Sports Republic (Southampton FC ownership group)  
+
+### Systems & Mechatronic Engineering  
+Jaguar Land Rover | Cambridge Space Technologies
+
+Early career focused on control systems, simulation modelling, V2X technologies, and secure quantum key distribution system modelling.
+
+---
+
+## Core Technical Expertise
+
+### Large Language Models & Generative AI
+
+- Production LLM system design  
+- Model fine-tuning & post-training  
+- Synthetic data design & evaluation  
+- Agentic retrieval architectures  
+- Custom RAG pipelines  
+- Stochastic & deterministic NLP systems  
+
+### Machine Learning & Research
+
+- Feature engineering & exploratory analysis  
+- Time-series forecasting  
+- Anomaly detection  
+- Reinforcement learning system design  
+- Research into RL architectures for partially observable state spaces  
+
+---
+
+## Technology Stack
+
+**Languages**  
+Python  
+
+**Frameworks & Libraries**  
+LangChain  
+LangGraph  
+HuggingFace  
+Transformers  
+Ollama  
+Weights & Biases  
+Pandas / Polars  
+FastAPI  
+
+**Infrastructure & MLOps**  
+AWS (EC2, ECS, ECR, Bedrock, Lambda, VPC)  
+Docker  
+
+---
+
+## Design Philosophy
+
+AI systems operating in regulated environments must prioritise:
+
+- Deterministic safeguards  
+- Architectural isolation  
+- Transparent retrieval logic  
+- Structured evaluation frameworks  
+- Measured deployment strategies  
+
+I focus on building systems that expand capability without compromising operational robustness.
+
+---
+
+## Education
+
+**MSc Artificial Intelligence & Data Analytics** — First Class Honours  
+Loughborough University  
+
+**BEng Robotics, Mechatronics & Control Engineering** — Upper Second Class Honours  
+Loughborough University  
+
+PSM1 — Professional Scrum Master  
+
+---
+
+## Contact
+
+Email: Benjamin.r.brock@gmail.com  
+LinkedIn: https://www.linkedin.com/in/benjamin-brock-ai/
